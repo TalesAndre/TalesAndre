@@ -6,7 +6,7 @@
 
 Meu nome é Tales André de souza, 28, Estudante Desenvolvedor Full Stack - GrowDev!
 
-- :office_worker: Desenvolvedor Web Full Stack no [**Curso Desenvolvimento WebFullStack - GrowDev**](https://www.growdev.com.br/)
+- :office_worker: Estaduante: Web Full Stack no [**Curso Desenvolvimento WebFullStack - GrowDev**](https://www.growdev.com.br/)
 - :blue_heart:Trabalho, Futebol, Musica & Programar.
 - :books: Estudando: programação.
 
