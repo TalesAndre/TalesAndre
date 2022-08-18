@@ -1,6 +1,6 @@
 # :man_technologist: Tales André
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.https://www.linkedin.com/in/tales-andr%C3%A9-de-souza-064069229/)](https://https://www.https://www.linkedin.com/in/tales-andr%C3%A9-de-souza-064069229//)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.https://www.linkedin.com/in/tales-andr%C3%A9-de-souza-064069229/)](https://https://www.https://www.linkedin.com/in/tales-andr%C3%A9-de-souza-064069229//) https://www.linkedin.com/in/tales-andr%C3%A9-de-souza-064069229/
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=tales:talesmais1@gmail.com)](tales:talesmais1@gmail.com)
 
