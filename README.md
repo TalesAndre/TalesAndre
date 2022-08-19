@@ -4,7 +4,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=tales:talesmais1@gmail.com)](tales:talesmais1@gmail.com)
 
-Meu nome é Tales André de souza, 28, Estudante Desenvolvedor Full Stack - GrowDev!
+Meu nome é Tales André de souza, 27, Estudante Desenvolvedor Full Stack - GrowDev!
 
 - :office_worker: Estaduante: Web Full Stack no [**Curso Desenvolvimento WebFullStack - GrowDev**](https://www.growdev.com.br/)
 - :blue_heart:Trabalho, Futebol, Musica & Programar.
